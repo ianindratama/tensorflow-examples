@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "TFLite Bert QA Demo App"
-include ':app'
+include(":app")
